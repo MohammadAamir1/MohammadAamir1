@@ -1,16 +1,59 @@
-## Hi there 👋
+Hi, I'm Mohammad Aamir 👋
 
-<!--
-**MohammadAamir1/MohammadAamir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer
 
-Here are some ideas to get you started:
+I am a B.Tech Computer Science graduate passionate about building scalable, responsive, and user-friendly web applications using the MERN Stack. I enjoy learning new technologies and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript (Learning)
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- Git & GitHub
+- REST APIs
+
+---
+
+📌 Projects
+
+🧑‍💼 Job Portal (MERN Stack)
+
+- User authentication with JWT
+- Job posting and application system
+- Admin dashboard
+- MongoDB database
+
+🤝 DevTinder (MERN Stack)
+
+- Developer networking platform
+- Authentication and profile management
+- Connection requests
+- Responsive UI
+
+
+---
+
+🌱 Currently Learning
+
+- TypeScript
+- Next.js
+
+---
+
+📫 Connect with Me
+
+- GitHub: https://github.com/MohammadAamir1
+- LinkedIn: https://www.linkedin.com/in/mohammad-aamir-18184124b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+  
